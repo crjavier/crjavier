@@ -9,4 +9,4 @@ crjavier/crjavier is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![IMG_20150716_031139878](https://user-images.githubusercontent.com/15008952/205578845-71769a33-db6e-426f-bdca-138d2d707441.jpg)
+![IMG_20150716_031139878](https://user-images.githubusercontent.com/15008952/209762716-95057573-178c-4778-a8f7-e94e662907d2.jpg)
