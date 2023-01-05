@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Javier Reyes
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on cool things
 - 📫 How to reach me https://www.linkedin.com/in/reyesjavi/
 
 <!---
